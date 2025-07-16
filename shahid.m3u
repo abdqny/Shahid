@@ -1,0 +1,485 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="file:///private/var/mobile/Containers/Data/Application/93C7E55A-2498-4611-8CBD-05AC27D2585E/tmp/66055894-9CB7-4189-9297-D2F9A3A6F7A9.png" group-title="شاهد ديجيتال",‏Feel Good Movies 
+https://mbcvod-enc.edgenextcdn.net/v1/channel/Feel_Good_Movies/index_hls.m3u8?aws.manifestfilter=video_height:144-720;video_codec:H264
+#EXTINF:-1 group-title="وياك",وياك نواعم
+https://weyyak-live.akamaized.net/weyyak_nawaem/index.m3u8
+#EXTINF:-1 group-title="وياك",وياك مكس
+https://weyyak-live.akamaized.net/weyyak_mix/index.m3u8
+#EXTINF:-1 group-title="وياك",وياك دراما
+https://weyyak-live.akamaized.net/weyyak_drama/index.m3u8
+#EXTINF:-1 group-title="وياك",وياك اكشن
+https://weyyak-live.akamaized.net/weyyak_action/index.m3u8
+#EXTINF:-1 group-title="دبي + ابو ظبي",نور دبي
+https://dmiffthvll.cdn.mgmlcdn.com/noordubaitv/smil:noordubaitv.smil/playlist.m3u8
+#EXTINF:-1 group-title="قنوات شاميه",لنا بلس
+https://eitc.secure2.footprint.net/egress/chandler/emirates/eitc2/m3u8/sdi2-720p.m3u8
+#EXTINF:-1 group-title="قنوات شاميه",لنا
+https://eitc.secure2.footprint.net/egress/chandler/emirates/eitc/master22-vod.m3u8
+#EXTINF:-1 tvg-logo="file:///private/var/mobile/Containers/Data/Application/4F50D8A6-472C-4D32-B13D-22D2B51FBA23/tmp/0043FF4C-7CD5-411D-B9F9-A71783A96A50.webp",قناة فرنسية
+https://shls-m6-int-prod-dub.shahid.net/out/v1/a315ab77ee7343a7a17dbe7e32eee3ba/index.m3u8?aws.manifestfilter=video_height:144-576;video_codec:H264
+#EXTINF:-1 group-title="قنوات منوعه",قطر ٢
+https://qatartv.akamaized.net/hls/live/2026574/qtv2/master.m3u8
+#EXTINF:-1 group-title="قنوات منوعه",قطر ١
+https://qatartv.akamaized.net/hls/live/2026573/qtv1/master.m3u8
+#EXTINF:-1 group-title="قنوات منوعه",عمان مباشر
+https://partwo.cdn.mgmlcdn.com/omlive/smil:omlive.stream.smil/playlist.m3u8
+#EXTINF:-1 group-title="قنوات رياضية منوعه",عمان الرياضية 
+https://partne.cdn.mgmlcdn.com/omsport/smil:omsport.stream.smil/playlist.m3u8
+#EXTINF:-1 group-title="قنوات منوعه",عمان الثقافية 
+https://partwo.cdn.mgmlcdn.com/omcultural/smil:omcultural.stream.smil/playlist.m3u8
+#EXTINF:-1 group-title="قنوات شاميه",عمان
+https://ammantv-live.ercdn.net/ammantvhd/ammantvhd.m3u8
+#EXTINF:-1 group-title="قنوات منوعه",عمان
+https://partne.cdn.mgmlcdn.com/omantv/smil:omantv.stream.smil/playlist.m3u8
+#EXTINF:-1 group-title="اطفال",طيور الجنة
+https://manifest.googlevideo.com/api/manifest/hls_variant/file/index.m3u8?expire=1665547662&ei=LulFY-mvDIzwgQeh1rmYAQ&ip=2a02%3Acb80%3A4048%3Ac041%3Aed91%3Ac75b%3A3954%3Ae2b1&id=6hJ8I4qLvMU.1&source=yt_live_broadcast&requiressl=yes&hfr=1&playlist_duration=30&manifest_duration=30&vprv=1&go=1&pacing=0&nvgoi=1&keepalive=yes&fexp=24001373%2C24007246&beids=24277532&dover=11&itag=0&playlist_type=DVR&sparams=expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cvprv%2Cgo%2Citag%2Cplaylist_type&sig=AOq0QJ8wRgIhANM_HCU5zpCwmEOh-vV97fRkNPGyKabx4EvuJJxrNfnHAiEA5LAbcQqVAJUrumFGdNxeaFoITO48KcDYFfNZSfDALtU%3D&cpn=XjiXckUPoemOBu6B&ibw=3750000&c=MWEB&cver=2.20221005.09.00&ptk=youtube_single&oid=30UJlxbZfupj5EevldIReg&ptchn=ZbpK_Lgctew3YNELlG2ecw&pltype=contentlive
+#EXTINF:-1 group-title="اطفال",طه
+https://media2.livaat.com/TAHA-TV/index.m3u8
+#EXTINF:-1 group-title="طاش ما طاش",طاش الموسم 13 ( سواويق نواعم ) 
+https://mbcvod-enc.edgenextcdn.net/out/v1/6e54086c2f1d4dd4bb8818a10a629f92/28092a4749a040c5804da6a62096a6fd/531e9dc92a314f3f951df53a06caf6c1/manifest.m3u8?aws.manifestfilter=video_height:144-720;video_codec:H264
+#EXTINF:-1 group-title="طاش ما طاش",طاش العودة الحلقة الاولى ( الصاعقة )
+https://mbcvod-enc.edgenextcdn.net/out/v1/88aaa14439054410a498b2adb4ea9be9/5159b292dd7b4d5481235d826d89e1e5/17c94706059e4d0897dc39695634f09d/index.m3u8?aws.manifestfilter=video_height:144-720;video_codec:H264
+#EXTINF:-1 group-title="طاش ما طاش",طاش الصاعقة 
+https://mbcvod-enc.edgenextcdn.net/out/v1/88aaa14439054410a498b2adb4ea9be9/5159b292dd7b4d5481235d826d89e1e5/17c94706059e4d0897dc39695634f09d/index.m3u8?aws.manifestfilter=video_height:144-720;video_codec:H264
+#EXTINF:-1 group-title="روتانا",ضحك وبس
+https://daiconnect.com/live/hls/rotana/dwbass/.m3u8?USrGDPRC=0&UUSPriv=1N--&UCOPPA=0&ApSrcURL=https%3A%2F%2Frotana.net%2Far%2Fchannels%23%2Flive%2Frotana_D7kwbs
+#EXTINF:-1 group-title="شاهد ديجيتال",شاهد وسط البلد
+https://cdxaws-ak.akamaized.net/v1/channel/West_al_balad/index_hls.m3u8?aws.manifestfilter=video_height:144-720;video_codec:H264
+#EXTINF:-1 tvg-logo="file:///private/var/mobile/Containers/Data/Application/93C7E55A-2498-4611-8CBD-05AC27D2585E/tmp/4910C116-311B-4F42-BCEA-C14347DDA56D.png" group-title="شاهد ديجيتال",شاهد واي فاي
+https://shls-live-ak.akamaized.net/out/v1/22a1fb00da8a4b1fb15cbd70b8b59856/index.m3u8?aws.manifestfilter=video_height:144-720;video_codec:H264
+#EXTINF:-1 group-title="شاهد ديجيتال",شاهد هدى حسين
+https://mbcvod-enc.edgenextcdn.net/v1/channel/Huda_Hussien/index_hls.m3u8?aws.manifestfilter=video_height:144-720;video_codec:H264
+#EXTINF:-1 group-title="شاهد ديجيتال",شاهد ناصر القصبي
+https://cdxaws-ak.akamaized.net/v1/channel/Naser_Al_Qassaby/index_hls.m3u8?aws.manifestfilter=video_height:144-1080;video_codec:H264
+#EXTINF:-1 group-title="شاهد ديجيتال",شاهد مسرح مصر
+https://shls-live-ak.akamaized.net/out/v1/8fae48b64942450cb5d60b3fb6910de0/index.m3u8?aws.manifestfilter=video_height:144-720;video_codec:H264
+#EXTINF:-1 group-title="شاهد ديجيتال",شاهد مسرح السعودية
+https://cdxaws-ak.akamaized.net/v1/channel/Masrah_Al_Saudia_channel/index_hls.m3u8?aws.manifestfilter=video_height:144-720;video_codec:H264
+#EXTINF:-1 group-title="شاهد ديجيتال",شاهد مرايا
+https://shls-live-ak.akamaized.net/out/v1/a4a39d8e92e34b0780ca602270a59512/index.m3u8?aws.manifestfilter=video_height:144-720;video_codec:H264
+#EXTINF:-1 tvg-logo="file:///private/var/mobile/Containers/Data/Application/4F50D8A6-472C-4D32-B13D-22D2B51FBA23/tmp/6BBD6D0B-3ADA-4556-A52A-EA7F353C4B3A.webp" group-title="شاهد ديجيتال",شاهد محمد عبده
+https://mohammed-abdou-ak.akamaized.net/out/v1/3b57275cf54747cda4cda03ecf146f92/index.m3u8?aws.manifestfilter=video_height:144-720;video_codec:H264
+#EXTINF:-1 group-title="شاهد ديجيتال",شاهد قصي خولي
+https://mbcvod-enc.edgenextcdn.net/v1/channel/Kosai_Khouli/index_hls.m3u8?aws.manifestfilter=video_height:144-720;video_codec:H264
+#EXTINF:-1 group-title="شاهد ديجيتال",شاهد فقط للضحك
+https://shls-live-ak.akamaized.net/out/v1/0afd546fcb5342f69d6bfff2dd1596e9/index.m3u8?aws.manifestfilter=video_height:144-720;video_codec:H264
+#EXTINF:-1 group-title="شاهد ديجيتال",شاهد فريد
+https://mbcvod-enc.edgenextcdn.net/v1/channel/Fareed/index_hls.m3u8?aws.manifestfilter=video_height:144-720;video_codec:H264
+#EXTINF:-1 group-title="شاهد ديجيتال",شاهد عروس بيروت
+https://mbcvod-enc.edgenextcdn.net/v1/channel/Arous_Beirut_/index_hls.m3u8?aws.manifestfilter=video_height:144-720;video_codec:H264
+#EXTINF:-1 group-title="شاهد ديجيتال",شاهد عبدالمجيد عبدالله 
+https://abdulmajeed-abdullah-ak.akamaized.net/out/v1/b5759c5db43d4d10b382a4bc2b337ab5/index.m3u8?aws.manifestfilter=video_height:144-720;video_codec:H264
+#EXTINF:-1 tvg-logo="file:///private/var/mobile/Containers/Data/Application/4F50D8A6-472C-4D32-B13D-22D2B51FBA23/tmp/45261ADC-F3B3-41FE-9AD6-DF92E1AF5301.webp" group-title="شاهد ديجيتال",شاهد طاش
+https://mbcvod-enc.edgenextcdn.net/v1/channel/Tash_Matash_/index_hls.m3u8?aws.manifestfilter=video_height:144-720;video_codec:H264
+#EXTINF:-1 group-title="شاهد ديجيتال",شاهد سيلفي
+https://mbcvod-enc.edgenextcdn.net/v1/channel/Selfie_Channel/index_hls.m3u8?aws.manifestfilter=video_height:144-720;video_codec:H264
+#EXTINF:-1 group-title="شاهد ديجيتال",شاهد سعاد عبدالله
+https://mbcvod-enc.edgenextcdn.net/v1/channel/Souad_Abdullah/index_hls.m3u8?aws.manifestfilter=video_height:144-720;video_codec:H264
+#EXTINF:-1 group-title="شاهد ديجيتال",شاهد ستيلتو
+https://mbcvod-enc.edgenextcdn.net/v1/channel/Stiletto/index_hls.m3u8?aws.manifestfilter=video_height:144-720;video_codec:H264
+#EXTINF:-1 group-title="شاهد ديجيتال",شاهد رامز
+https://cdxaws-ak.akamaized.net/v1/channel/Ramez/index_hls.m3u8?aws.manifestfilter=video_height:144-1080;video_codec:H264
+#EXTINF:-1 group-title="شاهد ديجيتال",شاهد راشد الماجد
+https://rashed-almajed-ak.akamaized.net/out/v1/77b0946130344d1388e5cd34afdcb772/index.m3u8?aws.manifestfilter=video_height:144-720;video_codec:H264
+#EXTINF:-1 group-title="شاهد ديجيتال",شاهد راجل و 6 ستات
+https://mbcvod-enc.edgenextcdn.net/v1/channel/Ragel_We_Set_Settat_Channel/index_hls.m3u8?aws.manifestfilter=video_height:144-720;video_codec:H264
+#EXTINF:-1 tvg-logo="file:///private/var/mobile/Containers/Data/Application/4F50D8A6-472C-4D32-B13D-22D2B51FBA23/tmp/AC2AD0F4-779B-432C-BA2E-DF2C08C7ADC3.webp" group-title="شاهد ديجيتال",شاهد حسينوه
+https://cdxaws-ak.akamaized.net/v1/channel/Hassino_/index_hls.m3u8?aws.manifestfilter=video_height:144-1080;video_codec:H264
+#EXTINF:-1 tvg-logo="file:///private/var/mobile/Containers/Data/Application/4F50D8A6-472C-4D32-B13D-22D2B51FBA23/tmp/B93223F5-5166-4441-8ADE-EE4323933347.webp" group-title="شاهد ديجيتال",شاهد توب شيف
+https://cdxaws-ak.akamaized.net/v1/channel/Top-Chef/index_hls.m3u8?aws.manifestfilter=video_height:144-1080;video_codec:H264
+#EXTINF:-1 group-title="شاهد ديجيتال",شاهد باب الحارة
+https://shls-live-ak.akamaized.net/out/v1/948c54279b594944adde578c95f1d7d1/index.m3u8?aws.manifestfilter=video_height:144-720;video_codec:H264
+#EXTINF:-1 group-title="شاهد ديجيتال",شاهد الهيبة
+https://shls-live-ak.akamaized.net/out/v1/0ef83323c0374a1187c182645db2a45f/index.m3u8?aws.manifestfilter=video_height:144-720;video_codec:H264
+#EXTINF:-1 group-title="شاهد ديجيتال",شاهد الميراث
+https://mbcvod-enc.edgenextcdn.net/v1/channel/Al_Meerath/index_hls.m3u8?aws.manifestfilter=video_height:144-720;video_codec:H264
+#EXTINF:-1 tvg-logo="file:///private/var/mobile/Containers/Data/Application/4F50D8A6-472C-4D32-B13D-22D2B51FBA23/tmp/8DBFBC23-4FDA-4CEA-975D-86D37244EAE7.webp" group-title="شاهد ديجيتال",شاهد المسرح
+https://mbcvod-enc.edgenextcdn.net/v1/channel/Al_Masrah/index_hls.m3u8?aws.manifestfilter=video_height:144-720;video_codec:H264
+#EXTINF:-1 group-title="شاهد ديجيتال",شاهد اللعبة
+https://shls-live-ak.akamaized.net/out/v1/d6e1fdee781f4506a6ac147fee5ba715/index.m3u8?aws.manifestfilter=video_height:144-720;video_codec:H264
+#EXTINF:-1 group-title="شاهد ديجيتال",شاهد الكبير اوي
+https://shls-live-ak.akamaized.net/out/v1/5f5de4f9efe24f758f1364dde5e2a45c/index.m3u8?aws.manifestfilter=video_height:144-720;video_codec:H264
+#EXTINF:-1 group-title="التلفزيون السعودي",شاهد القرآن الكريم 
+https://quraan-enc.edgenextcdn.net/out/v1/ddcb7f1e5642437f99a5259b1b6483b1/index.m3u8?aws.manifestfilter=video_height:144-720;video_codec:H264
+#EXTINF:-1 group-title="شاهد ديجيتال",شاهد العاصوف
+https://shls-live-ak.akamaized.net/out/v1/0afd546fcb5342f69d6bfff2dd1596e9/index.m3u8?aws.manifestfilter=video_height:144-720;video_codec:H264
+#EXTINF:-1 group-title="التلفزيون السعودي",شاهد السنة النبوية 
+https://sunna-enc.edgenextcdn.net/out/v1/d219ff27e96b4928883c8b2cc3a4bd42/index.m3u8?aws.manifestfilter=video_height:144-720;video_codec:H264
+#EXTINF:-1 group-title="التلفزيون السعودي",شاهد السعودية الآن
+https://ksa-now-ak.akamaized.net/out/v1/3c93b11fbb2645f9a1e78eb08ba0cc93/index.m3u8?aws.manifestfilter=video_height:144-720;video_codec:H264
+#EXTINF:-1 group-title="التلفزيون السعودي",شاهد السعودية
+https://saudi-tv-prod-dub-ak.akamaized.net/out/v1/62c4c05401c942dbbfb675ec282ac7eb/index.m3u8?aws.manifestfilter=video_height:144-720;video_codec:H264
+#EXTINF:-1 tvg-logo="file:///private/var/mobile/Containers/Data/Application/4F50D8A6-472C-4D32-B13D-22D2B51FBA23/tmp/DFDE69A8-A8AB-43CB-9E1B-F67030E31A15.webp" group-title="شاهد ديجيتال",شاهد الزعيم
+https://cdxaws-ak.akamaized.net/v1/channel/AlZaeem--/index_hls.m3u8?aws.manifestfilter=video_height:144-1080;video_codec:H264
+#EXTINF:-1 group-title="شاهد ديجيتال",شاهد الحفرة
+https://shls-live-ak.akamaized.net/out/v1/e7350ddf46c94dddafe14b099394ff56/index.m3u8?aws.manifestfilter=video_height:144-720;video_codec:H264
+#EXTINF:-1 group-title="شاهد ديجيتال",شاهد الحصن 
+https://mbcvod-enc.edgenextcdn.net/v1/channel/Al_Hisn/index_hls.m3u8?aws.manifestfilter=video_height:144-720;video_codec:H264
+#EXTINF:-1 group-title="التلفزيون السعودي",شاهد الإخبارية 
+https://al-ekhbaria-prod-dub-ak.akamaized.net/out/v1/f70dd5a05fa04e738509599cd19b8f0d/index.m3u8?aws.manifestfilter=video_height:144-720;video_codec:H264
+#EXTINF:-1 tvg-logo="file:///private/var/mobile/Containers/Data/Application/4F50D8A6-472C-4D32-B13D-22D2B51FBA23/tmp/DE48DB7A-E31D-4DE2-8186-C9CC3AE0EE49.webp" group-title="شاهد ديجيتال",شاهد الأسطورة
+https://cdxaws-ak.akamaized.net/v1/channel/Al_Ostoura_/index_hls.m3u8?aws.manifestfilter=video_height:144-1080;video_codec:H264
+#EXTINF:-1 group-title="شاهد ديجيتال",شاهد افلام كوميدي
+https://cdxaws-ak.akamaized.net/v1/channel/Aflam_Comedy/index_hls.m3u8?aws.manifestfilter=video_height:144-720;video_codec:H264
+#EXTINF:-1 group-title="شاهد ديجيتال",شاهد افلام
+https://shls-live-ak.akamaized.net/out/v1/0044dd4b001a466c941ad77b04a574a2/index.m3u8?aws.manifestfilter=video_height:144-720;video_codec:H264
+#EXTINF:-1 group-title="اطفال",شاهد اطفال
+https://shls-live-ak.akamaized.net/out/v1/e09d6e88de95452fa5566a839ca5ed5c/index.m3u8?aws.manifestfilter=video_height:144-1080;video_codec:H264
+#EXTINF:-1 group-title="شاهد ديجيتال",شاهد اطرق بابي
+https://mbcvod-enc.edgenextcdn.net/v1/channel/Otroq_Babi_Channel/index_hls.m3u8?aws.manifestfilter=video_height:144-720;video_codec:H264
+#EXTINF:-1 group-title="شاهد ديجيتال",شاهد أصلي وحصري
+https://shls-live-ak.akamaized.net/out/v1/ea4275b6dc0840c198c17f6dc6f1ec49/index.m3u8?aws.manifestfilter=video_height:144-1080;video_codec:H264
+#EXTINF:-1 group-title="شاهد ديجيتال",شاهد WWE
+https://cdxaws-ak.akamaized.net/v1/channel/WWE/index_hls.m3u8?aws.manifestfilter=video_height:144-1080;video_codec:H264
+#EXTINF:-1 group-title="شاهد ديجيتال",شاهد Top Gear
+https://shls-live-ak.akamaized.net/out/v1/07a6ab2d57b2453a91bbdd2d46b5865a/index.m3u8?aws.manifestfilter=video_height:144-720;video_codec:H264
+#EXTINF:-1 group-title="شاهد ديجيتال",شاهد PLATINUM RECORDS
+https://mbcvod-enc.edgenextcdn.net/v1/channel/Platinum_Records/index_hls.m3u8?aws.manifestfilter=video_height:144-720;video_codec:H264
+#EXTINF:-1 group-title="قنوات وثائقيه",شاهد Nature Time 
+https://shls-live-ak.akamaized.net/out/v1/b06a89a463764d3688cda337d40dc5bf/index.m3u8?aws.manifestfilter=video_height:144-720;video_codec:H264
+#EXTINF:-1 group-title="شاهد ديجيتال",شاهد Movies Thriller 
+https://shls-live-ak.akamaized.net/out/v1/f6d718e841f8442f8374de47f18c93a7/index.m3u8?aws.manifestfilter=video_height:144-720;video_codec:H264
+#EXTINF:-1 group-title="شاهد ديجيتال",شاهد Movies Action
+https://shls-live-ak.akamaized.net/out/v1/46079e838e65490c8299f902a7731168/index.m3u8?aws.manifestfilter=video_height:144-720;video_codec:H264
+#EXTINF:-1 group-title="شاهد ديجيتال",شاهد Movies
+https://shls-live-ak.akamaized.net/out/v1/90143f040feb40589d18c57863d9e829/index.m3u8?aws.manifestfilter=video_height:144-720;video_codec:H264
+#EXTINF:-1 group-title="شاهد ديجيتال",شاهد Fashion tv
+https://mbc1-enc.edgenextcdn.net/out/v1/61474465407042c896d3d27685175891/index.m3u8?aws.manifestfilter=video_height:144-720;video_codec:H264
+#EXTINF:-1 group-title="قنوات وثائقيه",شاهد CRIME+
+https://cdxaws-ak.akamaized.net/v1/channel/Crime/index_hls.m3u8?aws.manifestfilter=video_height:144-720;video_codec:H264
+#EXTINF:-1 group-title="شاهد ديجيتال",شاهد Bollywood Classic
+https://shls-live-ak.akamaized.net/out/v1/485100a2150e4f69a338a5c99ca5648e/index.m3u8?aws.manifestfilter=video_height:144-720;video_codec:H264
+#EXTINF:-1 group-title="شاهد ديجيتال",شاهد Bollywood
+https://shls-live-ak.akamaized.net/out/v1/fb7b452f58f2412a9ae26b22dd30bd6b/index.m3u8?aws.manifestfilter=video_height:144-720;video_codec:H264
+#EXTINF:-1 group-title="روتانا",سيدة الشاشة 
+https://daiconnect.com/live/hls/rotana/selshasha/.m3u8?USrGDPRC=0&UUSPriv=1N--&UCOPPA=0&ApSrcURL=https%3A%2F%2Frotana.net%2Far%2Fchannels%23%2Flive%2Frotana_Sydtelshasha
+#EXTINF:-1 group-title="قنوات شاميه",سورية
+http://vod.ortas.sy:1935/oLive/sat05042022/playlist.m3u8
+#EXTINF:-1 group-title="قنوات شاميه",سوريا دراما
+http://vod.ortas.sy:1935/oLive/drama05042022/playlist.m3u8
+#EXTINF:-1 group-title="وياك",سماشي وياك
+https://weyyak-live.akamaized.net/weyyak_smashi_tv/index.m3u8
+#EXTINF:-1 group-title="وياك",سما دبي وياك
+https://weyyak-live.akamaized.net/weyyak_sama_dubai/index.m3u8
+#EXTINF:-1 group-title="دبي + ابو ظبي",سما دبي
+https://dmieigthvll.cdn.mgmlcdn.com/samadubaiht/smil:samadubai.stream.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="file:///private/var/mobile/Containers/Data/Application/4F50D8A6-472C-4D32-B13D-22D2B51FBA23/tmp/26ED5B0C-093B-4F9D-955C-679D161F4A52.webp" group-title="اطفال",سبيستون
+https://spacetoon-prod-dub-ak.akamaized.net/out/v1/6240b773a3f34cca95d119f9e76aec02/index.m3u8?aws.manifestfilter=video_height:144-1080;video_codec:H264
+#EXTINF:-1 group-title="وياك",زي الوان وياك
+https://weyyak-live.akamaized.net/weyyak_zee_alwan/index.m3u8
+#EXTINF:-1 group-title="وياك",زي افلام وياك
+https://weyyak-live.akamaized.net/weyyak_zee_aflam/index.m3u8
+#EXTINF:-1 group-title="روتانا",رومانس
+https://daiconnect.com/live/hls/rotana/romance/.m3u8?USrGDPRC=0&UUSPriv=1N--&UCOPPA=0&ApSrcURL=https%3A%2F%2Frotana.net%2Far%2Fchannels%23%2Flive%2Frotana-romance
+#EXTINF:-1 tvg-logo="file:///private/var/mobile/Containers/Data/Application/4F50D8A6-472C-4D32-B13D-22D2B51FBA23/tmp/35668A8A-233C-45C2-94DC-273F6E879FE6.webp" group-title="روتانا",روتانا+
+https://shls-rotanaplus-prod-dub.shahid.net/out/v1/1fc6103458be480b96e6a574b00fe1c0/index.m3u8?aws.manifestfilter=video_height:144-576;video_codec:H264
+#EXTINF:-1 tvg-logo="file:///private/var/mobile/Containers/Data/Application/F1486CBB-87D7-476B-B61B-E3A49E8F236D/tmp/1E1846EC-8671-4822-BE15-5030F2AB0322.png" group-title="روتانا",روتانا كوميدي 
+https://daiconnect.com/live/hls/rotana/comedy/.m3u8?USrGDPRC=0&UUSPriv=1N--&UCOPPA=0&ApSrcURL=https%3A%2F%2Frotana.net%2Far%2Fchannels%23%2Flive%2Frotana_Comedy
+#EXTINF:-1 group-title="روتانا",روتانا كليب
+https://hiplayer.hibridcdn.net/p/rotana-clip?p=48&s=1703931179&e=1704017579&cf=1704017579&h=5995502cd7410c2525b33b6a7504261b
+#EXTINF:-1 tvg-logo="file:///private/var/mobile/Containers/Data/Application/4F50D8A6-472C-4D32-B13D-22D2B51FBA23/tmp/3E485A47-7676-480F-BBCA-4D0F012A95BA.webp" group-title="روتانا",روتانا كلاسيك
+https://shls-rotanaclassic-prod-dub.shahid.net/out/v1/4eebed211c8441228321b4f67a46c5a5/index.m3u8?aws.manifestfilter=video_height:144-576;video_codec:H264
+#EXTINF:-1 tvg-logo="file:///private/var/mobile/Containers/Data/Application/4F50D8A6-472C-4D32-B13D-22D2B51FBA23/tmp/B0F72DDE-1CBA-41C2-8F91-AC187728815C.webp" group-title="روتانا",روتانا سينما🇸🇦
+https://shls-rotanacinema-ksa-prod-dub.shahid.net/out/v1/6cee1c57ea7841e697eb15cefc98e0a6/index.m3u8?aws.manifestfilter=video_height:144-576;video_codec:H264
+#EXTINF:-1 tvg-logo="file:///private/var/mobile/Containers/Data/Application/4F50D8A6-472C-4D32-B13D-22D2B51FBA23/tmp/D5B32F3E-39A2-49FB-B0A0-9781C9D5E926.webp" group-title="روتانا",روتانا سينما🇪🇬
+https://shls-rotanacinema-egy-prod-dub.shahid.net/out/v1/c39c0ecbcbdb46e890e91106776397a8/index.m3u8?aws.manifestfilter=video_height:144-576;video_codec:H264
+#EXTINF:-1 tvg-logo="file:///private/var/mobile/Containers/Data/Application/4F50D8A6-472C-4D32-B13D-22D2B51FBA23/tmp/638904D1-E41C-4B3E-8921-27DFD5AA1A78.webp" group-title="روتانا",روتانا دراما
+https://shls-rotanadrama-prod-dub.shahid.net/out/v1/20c617b40dc743589ecc9d08d9d3345d/index.m3u8?aws.manifestfilter=video_height:144-576;video_codec:H264
+#EXTINF:-1 tvg-logo="file:///private/var/mobile/Containers/Data/Application/4F50D8A6-472C-4D32-B13D-22D2B51FBA23/tmp/5673FFBF-3657-492F-A8B3-E3042EFF0AD3.webp" group-title="روتانا",روتانا خليجية
+https://shls-rotanakhalijia-prod-dub.shahid.net/out/v1/a639fd49db684f1b8c063d398101a888/index.m3u8?aws.manifestfilter=video_height:144-576;video_codec:H264
+#EXTINF:-1 tvg-logo="file:///private/var/mobile/Containers/Data/Application/4F50D8A6-472C-4D32-B13D-22D2B51FBA23/tmp/67D6921E-56B2-4A08-930F-19F69C055E04.webp" group-title="اطفال",روتانا Kids
+https://rotanakids-prod-dub-ak.akamaized.net/out/v1/df6e0eb3cdc4410b98209aafc8677cef/index.m3u8?aws.manifestfilter=video_height:144-1080;video_codec:H264
+#EXTINF:-1 group-title="راديو",راديو نور دبي
+https://dmithrvll.cdn.mgmlcdn.com/noordubairdo/noordubairdo_aac/playlist.m3u8
+#EXTINF:-1 group-title="راديو",راديو دبي 
+https://dmithrvll.cdn.mgmlcdn.com/dubairdo/dubairdo_aac/playlist.m3u8
+#EXTINF:-1 group-title="راديو",راديو القران الكريم 
+https://dmithrvll.cdn.mgmlcdn.com/quranrdo/quranrdo_aac/playlist.m3u8
+#EXTINF:-1 group-title="قنوات شاميه",رؤيا
+https://shls-live-ak.akamaized.net/out/v1/f1d7243984224a7e94bc34ff60d9fd53/index.m3u8?aws.manifestfilter=video_height:144-720;video_codec:H264
+#EXTINF:-1 tvg-logo="file:///private/var/mobile/Containers/Data/Application/4F50D8A6-472C-4D32-B13D-22D2B51FBA23/tmp/0E7D280C-EBF1-4A08-8412-662E043DC42E.webp" group-title="التلفزيون السعودي",ذكريات 
+https://edge.taghtia.com/sa/3.m3u8
+#EXTINF:-1 group-title="وياك",دبي وياك
+https://weyyak-live.akamaized.net/weyyak_dubai_tv/index.m3u8
+#EXTINF:-1 group-title="دبي + ابو ظبي",دبي زمان
+https://dmiffthvll.cdn.mgmlcdn.com/dubaizaman/smil:dubaizaman.stream.smil/playlist.m3u8
+#EXTINF:-1 group-title="دبي + ابو ظبي",دبي الرياضية ٣
+https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/index.m3u8
+#EXTINF:-1 group-title="دبي + ابو ظبي",دبي الرياضية ٢
+https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/index.m3u8
+#EXTINF:-1 group-title="دبي + ابو ظبي",دبي الرياضية ١
+https://dmitnthvll.cdn.mangomolo.com/dubaisports/smil:dubaisports.stream.smil/playlist.m3u8?stime=20230707032138&etime=20230714072318&token=0c6e192c9c45fcb3a8734
+#EXTINF:-1 group-title="دبي + ابو ظبي",دبي
+https://dmieigthvll.cdn.mgmlcdn.com/dubaitvht/smil:dubaitv.stream.smil/playlist.m3u8
+#EXTINF:-1,الكويت ١
+https://hiplayer.hibridcdn.net/p/kwmedia-kwtv1?p=48&s=1689319776&e=1689406176&cf=1689406176&h=9cb626172892003e423f1a3542cdaf05
+#EXTINF:-1 tvg-logo="file:///private/var/mobile/Containers/Data/Application/4F50D8A6-472C-4D32-B13D-22D2B51FBA23/tmp/A0B473FB-1D66-4FD0-8ED1-B21E4E67A811.webp" group-title="التلفزيون السعودي",القرآن الكريم 
+https://edge.taghtia.com/sa/7.m3u8
+#EXTINF:-1 group-title="قنوات انترنت",الفجر
+http://two.alfajertv.com:8081/AlfajertvHDTwo_web/web/playlist.m3u8
+#EXTINF:-1 group-title="اخبار",العربية اعمال
+https://alarabiya-business-ak.akamaized.net/out/v1/126027fa2f8c4d19be4551b77ec08cbb/index.m3u8?aws.manifestfilter=video_height:144-720;video_codec:H264
+#EXTINF:-1 tvg-logo="file:///private/var/mobile/Containers/Data/Application/4F50D8A6-472C-4D32-B13D-22D2B51FBA23/tmp/E3FEE53A-AB9C-4B57-A5C3-5D30B1D6F466.webp" group-title="اخبار",العربية
+https://d3o3cim6uzorb4.cloudfront.net/out/v1/f5f319206ed740f9a831f2097c2ead23/index.m3u8?aws.manifestfilter=video_height:144-576;video_codec:H264
+#EXTINF:-1 group-title="اخبار",العربي
+https://alaraby.cdn.octivid.com/alaraby/smil:alaraby.stream.smil/playlist.m3u8
+#EXTINF:-1 group-title="قنوات منوعه",العدالة
+https://live-ak.vimeocdn.com/exp=1689323782~acl=%2Fb303f5d2-9390-45ed-8b1f-d3981be253b4%2F%2A~hmac=ec0b7e48f7ebf52843d2a56440843b3c7c9cc73dd16dc9db941171ca78f3322f/b303f5d2-9390-45ed-8b1f-d3981be253b4/hls.m3u8
+#EXTINF:-1 group-title="قنوات وثائقيه",الشرق الوثائقية
+https://asharq-documentary.akamaized.net/out/v1/b7c528dcf9f54e50b09fd53d6e370f42/index.m3u8?aws.manifestfilter=video_height:144-720;video_codec:H264
+#EXTINF:-1 group-title="قنوات وثائقيه",الشرق DISCOVERY
+https://asharq-discovery-ak.akamaized.net/out/v1/f8ec7fe09f59476196852f077a59ddb0/index.m3u8?aws.manifestfilter=video_height:144-720;video_codec:H264
+#EXTINF:-1 tvg-logo="file:///private/var/mobile/Containers/Data/Application/4F50D8A6-472C-4D32-B13D-22D2B51FBA23/tmp/9C3AF38B-3F8F-41B8-B20E-03B76271FDDE.webp" group-title="اخبار",الشرق
+https://shls-asharq-prod-dub.shahid.net/out/v1/3b6b4902cf8747a28619411239584002/index.m3u8?aws.manifestfilter=video_height:144-576;video_codec:H264
+#EXTINF:-1 tvg-logo="file:///private/var/mobile/Containers/Data/Application/4F50D8A6-472C-4D32-B13D-22D2B51FBA23/tmp/303F531F-7CFC-44EE-BA52-51CDD4A42863.webp" group-title="التلفزيون السعودي",السنة النبوية 
+https://edge.taghtia.com/sa/6.m3u8
+#EXTINF:-1 group-title="قنوات رياضية منوعه",السعودية الرياضية 4
+https://cllive.itworkscdn.net/ksasports4live/token=nva=1688930311~dirs=1~hash=0559fb794af25ee64e79e/ksasports4.smil/playlist_dvr.m3u8
+#EXTINF:-1 group-title="قنوات رياضية منوعه",السعودية الرياضية 3
+https://cllive.itworkscdn.net/ksasports3live/token=nva=1688930289~dirs=1~hash=0492a419934af7335a8af/ksasports3.smil/playlist_dvr.m3u8
+#EXTINF:-1 group-title="قنوات رياضية منوعه",السعودية الرياضية 2
+https://edge.taghtia.com/sa/10.m3u8
+#EXTINF:-1 group-title="قنوات رياضية منوعه",السعودية الرياضية 1
+https://edge.taghtia.com/sa/9.m3u8
+#EXTINF:-1 tvg-logo="file:///private/var/mobile/Containers/Data/Application/4F50D8A6-472C-4D32-B13D-22D2B51FBA23/tmp/B902FC6B-2EC8-4359-8ADA-1AD7A9EB0A9A.webp" group-title="التلفزيون السعودي",السعودية الاولى 
+https://edge.taghtia.com/sa/2.m3u8
+#EXTINF:-1 group-title="روتانا",الرسالة EN
+https://daiconnect.com/live/hls/rotana/risalaint/.m3u8?USrGDPRC=0&UUSPriv=1N--&UCOPPA=0&ApSrcURL=https%3A%2F%2Frotana.net%2Far%2Fchannels%23%2Flive%2Frotana-risalaint
+#EXTINF:-1 group-title="روتانا",الرسالة 
+https://hiplayer.hibridcdn.net/p/rotana-risala?p=50&s=1703931733&e=1704018133&cf=1704018133&h=fe48dd781399d602d27f774a87dc3a10
+#EXTINF:-1 group-title="قنوات منوعه",الراي 
+https://svs.itworkscdn.net/alraitvlive/alraitv.smil/playlist.m3u8
+#EXTINF:-1,الرابعة
+https://cllive.itworkscdn.net/alrabiaatvnewslive/token=nva=1689397940~dirs=1~hash=04ce101ad75de14acfaed/alrabiaatv.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="file:///private/var/mobile/Containers/Data/Application/4F50D8A6-472C-4D32-B13D-22D2B51FBA23/tmp/FC62623D-B7F0-4AFE-AE99-4AC0284ABDDD.webp" group-title="اخبار",الحدث
+https://shls-hadath-prod-dub.shahid.net/out/v1/0e1a306399c346faac4226aa0858f99b/index.m3u8?aws.manifestfilter=video_height:144-576;video_codec:H264
+#EXTINF:-1 group-title="اخبار",الجزيرة مباشر
+https://live-hls-web-ajm.getaj.net/AJM/index.m3u8
+#EXTINF:-1 group-title="قنوات وثائقيه",الجزيرة الوثائقية 
+https://live-hls-web-ajd.getaj.net/AJD/index.m3u8
+#EXTINF:-1 group-title="اخبار",الجزيرة
+https://live-hls-web-aja.getaj.net/AJA/index.m3u8
+#EXTINF:-1 group-title="Mbc",الثقافية
+https://thaqafeyyah-ak.akamaized.net/out/v1/f6851f68ada94f82ae6b64a441eb5ab1/index.m3u8?aws.manifestfilter=video_height:144-720;video_codec:H264
+#EXTINF:-1,التلفزيون الاردني
+https://jrtv-live.ercdn.net/jordanhd/jordanhd.m3u8?st=pXijMc1k7NK9cjmyN384Mw&e=1689405656&P=Browser&C=Safari&D=Mobile&CT=%D8%A7%D9%84%D9%82%D9%86%D8%A7%D8%A9%20%D8%A7%D9%84%D8%A3%D9%88%D9%84%D9%89&CTY=TV%20Channel
+#EXTINF:-1 group-title="قنوات شاميه",التلفزيون الأردني
+https://jrtv-live.ercdn.net/jordanhd/jordanhd.m3u8?st=8O0Fx-V3pwBYSfv3nqp8uA&e=1660991500&P=Browser&C=Safari&D=Mobile&CT=%D8%A7%D9%84%D9%82%D9%86%D8%A7%D8%A9%20%D8%A7%D9%84%D8%A3%D9%88%D9%84%D9%89&CTY=TV%20Channel
+#EXTINF:-1 group-title="قنوات رياضية منوعه",البحرين الرياضية ١
+https://5c7b683162943.streamlock.net/live/ngrp:sportsone_all/playlist.m3u8
+#EXTINF:-1 group-title="قنوات منوعه",البحرين الدولية 
+https://5c7b683162943.streamlock.net/live/ngrp:bahraininternational_all/playlist.m3u8
+#EXTINF:-1 group-title="قنوات منوعه",البحرين
+https://5c7b683162943.streamlock.net/live/ngrp:bahraintvmain_all/playlist.m3u8
+#EXTINF:-1 group-title="دبي + ابو ظبي",الإمارات 
+https://admdn3.cdn.mangomolo.com/emarat/smil:emarat.stream.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="file:///private/var/mobile/Containers/Data/Application/4F50D8A6-472C-4D32-B13D-22D2B51FBA23/tmp/34A95A97-3730-4E9F-840E-FA1DC5DD9E0A.webp" group-title="التلفزيون السعودي",الإخبارية 
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/ekhbariyatv/live
+#EXTINF:-1 group-title="قنوات شاميه",الآن
+https://shls-live-ak.akamaized.net/out/v1/dfbdea4c1bf149629764e58c6ff314c8/index.m3u8?aws.manifestfilter=video_height:144-720;video_codec:H264
+#EXTINF:-1 group-title="Mbc",اكشن مع وليد
+https://shls-live-event2-prod-dub.shahid.net/out/v1/0456ede1a39145d98b3d8c8062ddc998/index.m3u8
+#EXTINF:-1 group-title="اطفال",اطفال ومواهب
+https://5d658d7e9f562.streamlock.net/atfal1.com/atfal2/playlist.m3u8
+#EXTINF:-1 group-title="قنوات انترنت",اجيال
+http://htvajyal.mada.ps:8888/ajyal/index.m3u8
+#EXTINF:-1 group-title="دبي + ابو ظبي",ابو ظبي الرياضية ٢
+https://admdn5.cdn.mangomolo.com/adsports2/smil:adsports2.stream.smil/playlist.m3u8
+#EXTINF:-1 group-title="دبي + ابو ظبي",ابو ظبي الرياضية ١
+https://admdn1.cdn.mangomolo.com/adsports1/smil:adsports1.stream.smil/playlist.m3u8
+#EXTINF:-1 group-title="دبي + ابو ظبي",ابو ظبي 
+https://admdn2.cdn.mangomolo.com/adtv/smil:adtv.stream.smil/playlist.m3u8
+#EXTINF:-1 group-title="راديو",إذاعة نداء الإسلام
+https://edge.taghtia.com/sa/14.m3u8
+#EXTINF:-1 group-title="راديو",إذاعة جدة
+https://edge.taghtia.com/sa/15.m3u8
+#EXTINF:-1 group-title="راديو",إذاعة القرآن الكريم 
+https://edge.taghtia.com/sa/13.m3u8
+#EXTINF:-1 group-title="راديو",إذاعة الرياض
+https://edge.taghtia.com/sa/12.m3u8
+#EXTINF:-1,Veo الرياضيه العاشره 
+https://stream.veo.buzz:6050/sport/ch32/ch32_720.m3u8
+#EXTINF:-1,Veo الرياضيه السادسه عشر 
+https://stream.veo.buzz:6050/sport/ch18/ch18_720.m3u8
+#EXTINF:-1,Veo الرياضيه السادسه 
+https://stream.veo.buzz:6050/sport/ch6/ch6_720.m3u8
+#EXTINF:-1,Veo الرياضيه السابعه عشر
+https://stream.veo.buzz:6050/sport/ch19/ch19_720.m3u8
+#EXTINF:-1,Veo الرياضيه السابعه 
+https://stream.veo.buzz:6050/sport/ch7/ch7_720.m3u8
+#EXTINF:-1,Veo الرياضيه الرابعه عشر 
+https://stream.veo.buzz:6050/sport/ch14/ch14_720.m3u8
+#EXTINF:-1,Veo الرياضيه الرابعه 
+https://stream.veo.buzz:6050/sport/ch4/ch4_720.m3u8
+#EXTINF:-1,Veo الرياضيه الخامسه عشر 
+https://stream.veo.buzz:6050/sport/ch15/ch15_720.m3u8
+#EXTINF:-1,Veo الرياضيه الخامسه  
+https://stream.veo.buzz:6050/sport/ch5/ch5_720.m3u8
+#EXTINF:-1,Veo الرياضيه الحاديه عشر 
+https://stream.veo.buzz:6050/sport/ch9/ch9_720.m3u8
+#EXTINF:-1,Veo الرياضيه الثانيه عشر 
+https://stream.veo.buzz:6050/sport/ch10/ch10_720.m3u8
+#EXTINF:-1,Veo الرياضيه الثانيه 
+https://stream.veo.buzz:6050/sport/ch2/ch2_720.m3u8
+#EXTINF:-1,Veo الرياضيه الثامنه 
+https://stream.veo.buzz:6050/sport/ch8/ch8_720.m3u8
+#EXTINF:-1,Veo الرياضيه الثالثه عشر 
+https://stream.veo.buzz:6050/sport/ch11/ch11_720.m3u8
+#EXTINF:-1,Veo الرياضيه الثالثه 
+https://stream.veo.buzz:6050/sport/ch3/ch3_720.m3u8
+#EXTINF:-1,Veo الرياضيه التاسعه  
+https://stream.veo.buzz:6050/sport/ch31/ch31_720.m3u8
+#EXTINF:-1,Veo الرياضيه الاولى 
+https://stream.veo.buzz:6050/sport/ch1/ch1_720.m3u8
+#EXTINF:-1 tvg-logo="file:///private/var/mobile/Containers/Data/Application/4F50D8A6-472C-4D32-B13D-22D2B51FBA23/tmp/1B6A1738-617E-494A-B034-2EB68EA7A716.webp" group-title="اطفال",Tiji
+https://tiji-tv-prod-dub-ak.akamaized.net/out/v1/98f46736bd8c4404b67e4b7a38cc8976/index.m3u8?aws.manifestfilter=video_height:144-1080;video_codec:H264
+#EXTINF:-1 group-title="قنوات اجنبيه",The Walking Dead Channel
+https://bcovlive-a.akamaihd.net/c6dba5b728b14001b58132540511e6fd/us-east-1/6245817279001/playlist.m3u8?bcov_auth=eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJ1aWQiOiJhNTEwODI4OC03NzQ0LTRhM2UtYWIzYS0yMjUzOTIyMTRmYjkiLCJhY2NpZCI6IjYyNDU4MTcyNzkwMDEiLCJwcmlkIjoiODJkMWI0MmEtMWQ0Mi00ZGZiLTg2MmUtNTNmZDhkNWU2NmE4IiwiY29uaWQiOiI2MzA5NTI2NTI4MTEyIiwiY2xpbWl0Ijo0LCJleHAiOjE2Njk0Mzc3NjAsImNiZWgiOiJCTE9DS19ORVdfVVNFUiIsImlhdCI6MTY2OTM1MTM2MCwianRpIjoiOGIyMDY2MDItMzk0ZC00MmVkLTkwZmMtOTRjNTE1OWNjZjg4Iiwic2lkIjoiTW96aWxsYS81LjAgKGlQaG9uZTsgQ1BVIGlQaG9uZSBPUyAxNV80XzEgbGlrZSBNYWMgT1MgWCkgQXBwbGVXZWJLaXQvNjA1LjEuMTUgKEtIVE1MLCBsaWtlIEdlY2tvKSBWZXJzaW9uLzE0LjAgTW9iaWxlLzE1RTE0OCBTYWZhcmkvNjA0LjEgLSAyMTY4MzE2ODg1In0.AidErQuec8x3_IkV_7zzJkwFxcT8T6krCBoRCvMnz5TWBodqEW8QEBn0KwE-iRuMLa8Ez4QE0WyEfO7re7PiFO0g-PAzoMA_aBtzqCvJXSd4PFqTHpTyy7sKmrvIqKyMu5LvT4xGzhR1aNaoREdoPythYG0cKBTA1a0-ErnJl2-kFyDJjqBYOJRXfrTGTBGU-cCftVVjf3uw7fqFgdrg1YwfRqy4C29cqTX9UMKF8195G7kcJkgQbb4yRs97c4-THkYW_xvXIQ9bcskZSGBcxHfL5u_ZbMMUACva1fHLu_stMgWJlILQoxHPVyEySH-MhG8jkDP4I0hoU41WPPbATg
+#EXTINF:-1 group-title="وياك",Ten وياك
+https://weyyak-live.akamaized.net/weyyak_ten_tv/index.m3u8
+#EXTINF:-1,Syria TV
+https://svs.itworkscdn.net/syriatvlive/syriatv.smil/playlist_dvr.m3u8
+#EXTINF:-1 group-title="قنوات اجنبيه",Sundance TV
+https://bcovlive-a.akamaihd.net/4d972ec6f41241f2b4286f8bdcc8dae9/us-east-1/6240731308001/playlist.m3u8?bcov_auth=eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJ1aWQiOiJhNTEwODI4OC03NzQ0LTRhM2UtYWIzYS0yMjUzOTIyMTRmYjkiLCJhY2NpZCI6IjYyNDA3MzEzMDgwMDEiLCJwcmlkIjoiMzExZDAwYWItNjNiNi00ZDNkLThmYWEtNTA3NDhkNDA0NmEzIiwiY29uaWQiOiI2MzA5NTMyODQ1MTEyIiwiY2xpbWl0Ijo0LCJleHAiOjE2Njk0MzgwMzIsImNiZWgiOiJCTE9DS19ORVdfVVNFUiIsImlhdCI6MTY2OTM1MTYzMiwianRpIjoiN2M4NmUzOTktMzVkMi00N2NjLWE0MzUtMmVlYjAwNmM1MWIzIiwic2lkIjoiTW96aWxsYS81LjAgKGlQaG9uZTsgQ1BVIGlQaG9uZSBPUyAxNV80XzEgbGlrZSBNYWMgT1MgWCkgQXBwbGVXZWJLaXQvNjA1LjEuMTUgKEtIVE1MLCBsaWtlIEdlY2tvKSBWZXJzaW9uLzE0LjAgTW9iaWxlLzE1RTE0OCBTYWZhcmkvNjA0LjEgLSA0NjcyOTY0NzQ5In0.UydOAxs0jgXbOj2vRlqKBxCPCoLQRSgPcGk7NqZQ0K1hCTSHvUbJG-eMmQlXGQ3RWFGUY6SlITNGs4bsPbfTmjo-xp8jbPyGjFzJpz8SSzAA5cmuxGZjwrQ6HzUlOrgRZxR8-e1ZWPXRHXZOT5ATKzkFsbdobYO7YO35dmM1FhuMbiFFVrcYcMxBEXLROpRsG4DlLdSzjdks-xIFNx-2xF_gIYy2bjM65BaHFDeDO_IAVunkiaZa1EvqH2XPV_DU643APZwX7VQzp7lS1uI-qeeX8FWCFK5n5B-CQcrMww9A6em9I3_d9-VbGV1T_o2VdwGULTj0cg0zoOLOcCwM-g
+#EXTINF:-1,Starzplay 1
+http://sps1.starzplayarabia.com
+#EXTINF:-1 tvg-logo="http://vodkom.com:25461/Logo/SSC/ssc_5_hd.png" group-title="SSC",SSC5 HD
+http://sansat.net:88/02014508645675/y4KipgAd1ckzwwy/548146
+#EXTINF:-1 tvg-logo="http://vodkom.com:25461/Logo/SSC/ssc_5_hd.png" group-title="SSC",SSC5 4K
+http://sansat.net:88/02014508645675/y4KipgAd1ckzwwy/548154
+#EXTINF:-1 tvg-logo="http://vodkom.com:25461/Logo/SSC/ssc_4_hd.png" group-title="SSC",SSC4 SD
+http://sansat.net:88/02014508645675/y4KipgAd1ckzwwy/548161
+#EXTINF:-1 tvg-logo="http://vodkom.com:25461/Logo/SSC/ssc_4_hd.png" group-title="SSC",SSC4 HD
+http://sansat.net:88/02014508645675/y4KipgAd1ckzwwy/548145
+#EXTINF:-1 tvg-logo="http://vodkom.com:25461/Logo/SSC/ssc_4_hd.png" group-title="SSC",SSC4 4K
+http://sansat.net:88/02014508645675/y4KipgAd1ckzwwy/548153
+#EXTINF:-1 tvg-logo="http://vodkom.com:25461/Logo/SSC/ssc_3_hd.png" group-title="SSC",SSC3 SD
+http://sansat.net:88/02014508645675/y4KipgAd1ckzwwy/548160
+#EXTINF:-1 tvg-logo="http://vodkom.com:25461/Logo/SSC/ssc_3_hd.png" group-title="SSC",SSC3 HD
+http://sansat.net:88/02014508645675/y4KipgAd1ckzwwy/548144
+#EXTINF:-1 tvg-logo="http://vodkom.com:25461/Logo/SSC/ssc_3_hd.png" group-title="SSC",SSC3 4K
+http://sansat.net:88/02014508645675/y4KipgAd1ckzwwy/548152
+#EXTINF:-1 tvg-logo="http://vodkom.com:25461/Logo/SSC/ssc_2_hd.png" group-title="SSC",SSC2 SD
+http://sansat.net:88/02014508645675/y4KipgAd1ckzwwy/548159
+#EXTINF:-1 tvg-logo="http://vodkom.com:25461/Logo/SSC/ssc_2_hd.png" group-title="SSC",SSC2 HD
+http://sansat.net:88/02014508645675/y4KipgAd1ckzwwy/548143
+#EXTINF:-1 tvg-logo="http://vodkom.com:25461/Logo/SSC/ssc_2_hd.png" group-title="SSC",SSC2 4K
+http://sansat.net:88/02014508645675/y4KipgAd1ckzwwy/548151
+#EXTINF:-1 tvg-logo="http://vodkom.com:25461/Logo/SSC/ssc_1_hd.png" group-title="SSC",SSC1 SD
+http://sansat.net:88/02014508645675/y4KipgAd1ckzwwy/548158
+#EXTINF:-1 tvg-logo="http://vodkom.com:25461/Logo/SSC/ssc_1_hd.png" group-title="SSC",SSC1 HD
+http://sansat.net:88/02014508645675/y4KipgAd1ckzwwy/548142
+#EXTINF:-1 tvg-logo="http://vodkom.com:25461/Logo/SSC/ssc_1_hd.png" group-title="SSC",SSC1 4K
+http://sansat.net:88/02014508645675/y4KipgAd1ckzwwy/548150
+#EXTINF:-1 tvg-logo="http://vodkom.com:25461/Logo/SSC/ssc_news_hd.png" group-title="SSC",SSC NEWS HD
+http://sansat.net:88/02014508645675/y4KipgAd1ckzwwy/548141
+#EXTINF:-1 tvg-logo="http://vodkom.com:25461/Logo/SSC/ssc_extra_3_hd.png" group-title="SSC",SSC EXTRA 3 SD
+http://sansat.net:88/02014508645675/y4KipgAd1ckzwwy/548164
+#EXTINF:-1 tvg-logo="http://vodkom.com:25461/Logo/SSC/ssc_extra_3_hd.png" group-title="SSC",SSC EXTRA 3 HD
+http://sansat.net:88/02014508645675/y4KipgAd1ckzwwy/548149
+#EXTINF:-1 tvg-logo="http://vodkom.com:25461/Logo/SSC/ssc_extra_3_hd.png" group-title="SSC",SSC EXTRA 3 4K
+http://sansat.net:88/02014508645675/y4KipgAd1ckzwwy/548157
+#EXTINF:-1 tvg-logo="http://vodkom.com:25461/Logo/SSC/ssc_extra_2_hd.png" group-title="SSC",SSC EXTRA 2 SD
+http://sansat.net:88/02014508645675/y4KipgAd1ckzwwy/548163
+#EXTINF:-1 tvg-logo="http://vodkom.com:25461/Logo/SSC/ssc_extra_2_hd.png" group-title="SSC",SSC EXTRA 2 HD
+http://sansat.net:88/02014508645675/y4KipgAd1ckzwwy/548148
+#EXTINF:-1 tvg-logo="http://vodkom.com:25461/Logo/SSC/ssc_extra_2_hd.png" group-title="SSC",SSC EXTRA 2 4K
+http://sansat.net:88/02014508645675/y4KipgAd1ckzwwy/548156
+#EXTINF:-1 tvg-logo="http://vodkom.com:25461/Logo/SSC/ssc_extra_1_hd.png" group-title="SSC",SSC EXTRA 1 SD
+http://sansat.net:88/02014508645675/y4KipgAd1ckzwwy/548162
+#EXTINF:-1 tvg-logo="http://vodkom.com:25461/Logo/SSC/ssc_extra_1_hd.png" group-title="SSC",SSC EXTRA 1 HD
+http://sansat.net:88/02014508645675/y4KipgAd1ckzwwy/548147
+#EXTINF:-1 tvg-logo="http://vodkom.com:25461/Logo/SSC/ssc_extra_1_hd.png" group-title="SSC",SSC EXTRA 1 4K
+http://sansat.net:88/02014508645675/y4KipgAd1ckzwwy/548155
+#EXTINF:-1 group-title="شاهد ديجيتال",SMURF TV 
+https://shls-live-ak.akamaized.net/out/v1/aa981e9736d141bf94ecd60bc1835ad2/index.m3u8?aws.manifestfilter=video_height:144-720;video_codec:H264
+#EXTINF:-1 group-title="اخبار",Sky News Arabia 
+https://stream.skynewsarabia.com/vertical/vertical.m3u8
+#EXTINF:-1 group-title="وياك",Ski وياك
+https://d2xeo83q8fcni6.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/SkiTV-Zee/193.m3u8
+#EXTINF:-1 tvg-logo="file:///private/var/mobile/Containers/Data/Application/4F50D8A6-472C-4D32-B13D-22D2B51FBA23/tmp/B20D15E7-A5E3-47DF-B3CA-54F95EE5D42E.webp" group-title="التلفزيون السعودي",Sbc
+https://edge.taghtia.com/sa/1.m3u8
+#EXTINF:-1 group-title="راديو",Saudia Radio
+https://edge.taghtia.com/sa/11.m3u8
+#EXTINF:-1 group-title="قنوات شاميه",Samira TV
+https://shls-live-ak.akamaized.net/out/v1/2daff8b433344d659bd5079224afc3ab/index.m3u8?aws.manifestfilter=video_height:144-720;video_codec:H264
+#EXTINF:-1 group-title="اخبار",Rt arabic
+https://rt-arb.rttv.com/live/rtarab/playlist.m3u8
+#EXTINF:-1 tvg-logo="file:///private/var/mobile/Containers/Data/Application/4F50D8A6-472C-4D32-B13D-22D2B51FBA23/tmp/EBCEFA24-5609-4E68-83FA-4013B9354C80.webp" group-title="راديو",panorama Fm
+https://shls-panoramafm-prod-dub.shahid.net/out/v1/66262e420d824475aaae794dc2d69f14/index.m3u8?aws.manifestfilter=video_height:144-576;video_codec:H264
+#EXTINF:-1 group-title="قنوات شاميه",OTV
+http://62.182.82.104/OTV/index.m3u8?token=test
+#EXTINF:-1 group-title="دبي + ابو ظبي",One
+https://dminnvll.cdn.mgmlcdn.com/dubaione/smil:dubaione.stream.smil/playlist.m3u8
+#EXTINF:-1 group-title="قنوات شاميه",Nessmo الجديدة
+https://shls-live-ak.akamaized.net/out/v1/119ae95bbc91462093918a7c6ba11415/index.m3u8?aws.manifestfilter=video_height:144-720;video_codec:H264
+#EXTINF:-1 group-title="قنوات وثائقيه",National Geographic
+https://admdn2.cdn.mangomolo.com/nagtv/smil:nagtv.stream.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="file:///private/var/mobile/Containers/Data/Application/4F50D8A6-472C-4D32-B13D-22D2B51FBA23/tmp/D077A41F-D566-4D54-82D9-03C64D391866.webp" group-title="Mbc",mbc5
+https://shls-mbc5-prod-dub.shahid.net/out/v1/2720564b6a4641658fdfb6884b160da2/index.m3u8
+#EXTINF:-1 tvg-logo="file:///private/var/mobile/Containers/Data/Application/4F50D8A6-472C-4D32-B13D-22D2B51FBA23/tmp/84A32CD9-5B91-4A94-BA52-30C3E0F26BF6.webp" group-title="Mbc",mbc4
+https://shls-mbc4-prod-dub.shahid.net/out/v1/c08681f81775496ab4afa2bac7ae7638/index.m3u8?aws.manifestfilter=video_height:144-576;video_codec:H264
+#EXTINF:-1 tvg-logo="file:///private/var/mobile/Containers/Data/Application/4F50D8A6-472C-4D32-B13D-22D2B51FBA23/tmp/FB0F9BCD-A6DE-42FF-9281-5D09AB30C6D9.jpeg" group-title="اطفال",mbc3-EUR
+https://shls-mbc3-eur-prod-dub.shahid.net/out/v1/fce09dd6a967431a871efb3b8dec9f82/index.m3u8
+#EXTINF:-1 tvg-logo="file:///private/var/mobile/Containers/Data/Application/4F50D8A6-472C-4D32-B13D-22D2B51FBA23/tmp/F8C900CC-38F6-4DF2-8852-E3C33BDDF785.webp" group-title="اطفال",mbc3
+https://shls-mbc3-prod-dub.shahid.net/out/v1/d5bbe570e1514d3d9a142657d33d85e6/index.m3u8
+#EXTINF:-1 tvg-logo="file:///private/var/mobile/Containers/Data/Application/4F50D8A6-472C-4D32-B13D-22D2B51FBA23/tmp/95FF4389-9443-4D66-9A5A-951E886435AB.webp" group-title="Mbc",mbc1
+https://shls-mbc1na-prod-dub.shahid.net/out/v1/84ab37e99d6e4b16b33c6600f94f6ccb/index.m3u8
+#EXTINF:-1 tvg-logo="file:///private/var/mobile/Containers/Data/Application/4F50D8A6-472C-4D32-B13D-22D2B51FBA23/tmp/0966C70C-3837-49EA-B4E2-D8B1D25C5562.webp" group-title="Mbc",mbc+ دراما
+https://shls-mbcplusdrama-prod-dub.shahid.net/out/v1/97ca0ce6fc6142f4b14c0a694af59eab/index.m3u8
+#EXTINF:-1 tvg-logo="file:///private/var/mobile/Containers/Data/Application/4F50D8A6-472C-4D32-B13D-22D2B51FBA23/tmp/EC8D1492-2605-4BF3-B6E0-4DA49EF48C83.webp" group-title="Mbc",mbc مصر🇪🇬
+https://shls-live-ak.akamaized.net/out/v1/d5036cabf11e45bf9d0db410ca135c18/index.m3u8?aws.manifestfilter=video_height:144-720;video_codec:H264
+#EXTINF:-1 tvg-logo="file:///private/var/mobile/Containers/Data/Application/4F50D8A6-472C-4D32-B13D-22D2B51FBA23/tmp/74E89E6A-6BCB-4F83-A5B0-897C6152CA1B.webp" group-title="Mbc",mbc مصر 2🇪🇬
+https://shls-masr2-prod-dub.shahid.net/out/v1/f683685242b549f48ea8a5171e3e993a/index.m3u8
+#EXTINF:-1 tvg-logo="file:///private/var/mobile/Containers/Data/Application/4F50D8A6-472C-4D32-B13D-22D2B51FBA23/tmp/EDE0D1F2-BA48-451E-A960-5F4CDD58E4A1.webp" group-title="Mbc",mbc دراما
+https://shls-live-ak.akamaized.net/out/v1/b0b3a0e6750d4408bb86d703d5feffd1/index.m3u8?aws.manifestfilter=video_height:144-720;video_codec:H264
+#EXTINF:-1 tvg-logo="file:///private/var/mobile/Containers/Data/Application/4F50D8A6-472C-4D32-B13D-22D2B51FBA23/tmp/A1C6CF07-B635-4FA1-B92C-D885BB666DF3.webp" group-title="Mbc",mbc العراق🇮🇶
+https://shls-iraq-prod-dub.shahid.net/out/v1/c9bf1e87ea66478bb20bc5c93c9d41ea/index.m3u8
+#EXTINF:-1 tvg-logo="file:///private/var/mobile/Containers/Data/Application/4F50D8A6-472C-4D32-B13D-22D2B51FBA23/tmp/316F399D-C6E7-43EB-8622-F4B402CB8951.webp",mbc Wanasah 
+https://shls-wanasah-prod-dub.shahid.net/out/v1/c84ef3128e564b74a6a796e8b6287de6/index.m3u8?t=jKWeHnC1jpYLBAZ2EfNh9Q&e=1648447138
+#EXTINF:-1 tvg-logo="file:///private/var/mobile/Containers/Data/Application/4F50D8A6-472C-4D32-B13D-22D2B51FBA23/tmp/F0584261-642E-48CC-BF34-6806189DD31D.webp" group-title="Mbc",mbc Persia
+https://shls-mbcpersia-prod-dub.shahid.net/out/v1/bdc7cd0d990e4c54808632a52c396946/index.m3u8
+#EXTINF:-1 group-title="Mbc",Mbc Max
+http://62.182.82.104/MBC_Max/index.m3u8?token=test
+#EXTINF:-1 tvg-logo="file:///private/var/mobile/Containers/Data/Application/4F50D8A6-472C-4D32-B13D-22D2B51FBA23/tmp/53142C6A-A281-4E6A-B0ED-81D185B591C2.webp" group-title="راديو",mbc Fm
+https://mbcfm-riyadh-prod-dub.shahid.net/out/v1/69c8a03f507e422f99cf5c07291c9e3a/index.m3u8
+#EXTINF:-1 tvg-logo="file:///private/var/mobile/Containers/Data/Application/4F50D8A6-472C-4D32-B13D-22D2B51FBA23/tmp/FA110B9D-6D9D-44B1-A11A-4D249A61C6EF.webp" group-title="Mbc",mbc bollywood🇮🇳
+https://shls-mbcbollywood-prod-dub.shahid.net/out/v1/a79c9d7ef2a64a54a64d5c4567b3462a/index.m3u8?aws.manifestfilter=video_height:144-576;video_codec:H264
+#EXTINF:-1 group-title="Mbc",Mbc Action 
+http://62.182.82.104/MBC_Action/index.m3u8?token=test
+#EXTINF:-1 group-title="قنوات وثائقيه",M6
+https://shls-m6-int-prod-dub.shahid.net/out/v1/a315ab77ee7343a7a17dbe7e32eee3ba/index.m3u8?aws.manifestfilter=video_height:144-576;video_codec:H264
+#EXTINF:-1 group-title="قنوات اجنبيه",LFC
+https://bcovlive-a.akamaihd.net/045bd3b615254da880c3db79b2e42fd0/us-east-1/6240731308001/playlist.m3u8?bcov_auth=eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJ1aWQiOiJhNTEwODI4OC03NzQ0LTRhM2UtYWIzYS0yMjUzOTIyMTRmYjkiLCJhY2NpZCI6IjYyNDA3MzEzMDgwMDEiLCJwcmlkIjoiMzExZDAwYWItNjNiNi00ZDNkLThmYWEtNTA3NDhkNDA0NmEzIiwiY29uaWQiOiI2MzA5NTM0MzQxMTEyIiwiY2xpbWl0Ijo0LCJleHAiOjE2Njk0MzgwNzMsImNiZWgiOiJCTE9DS19ORVdfVVNFUiIsImlhdCI6MTY2OTM1MTY3MywianRpIjoiYWIxNTdmNDgtNWQ4Zi00NmFiLTgzMmEtYjZmMTg2OGRhMzM3Iiwic2lkIjoiTW96aWxsYS81LjAgKGlQaG9uZTsgQ1BVIGlQaG9uZSBPUyAxNV80XzEgbGlrZSBNYWMgT1MgWCkgQXBwbGVXZWJLaXQvNjA1LjEuMTUgKEtIVE1MLCBsaWtlIEdlY2tvKSBWZXJzaW9uLzE0LjAgTW9iaWxlLzE1RTE0OCBTYWZhcmkvNjA0LjEgLSAxOTY5ODU4ODkxIn0.kPjwj5m_ZN8zkDFE1t1hI86kvWxdz2T-AHT5PySn5cAJsAbV0fl_saZt4HQB68k5-iUhNATHmvESxlfvi2PRA83jXO9238gv6CR1Y8PBtyvgWoZoztqwQID6ExuheCkIMc6pE-8XYyK2FiL-VFtLeUEyPzhJsGvAZN5uE5_eOG_k88lEqMgykX4d0x9Mm-i7AT1X_msJ1UsCHUpf37O73JtEHDM5_2InF175kEuRcpZRZma27iQOXTL8yYCMW2kYavrutHTyqrFV3XGNyzD0O03B1p8_a-2mShaykIYY8tF3HpS-kiz1vcwUMUhSZ1nhi062q8QxtkbszwTN5464Ow
+#EXTINF:-1 group-title="روتانا",LBC
+https://daiconnect.com/live/hls/rotana/lbc-cdn/.m3u8?USrGDPRC=0&UUSPriv=1N--&UCOPPA=0&ApSrcURL=https%3A%2F%2Frotana.net%2Far%2Fchannels%23%2Flive%2Frotana_LBC
+#EXTINF:-1 group-title="قنوات شاميه",Helwa TV
+https://shls-live-ak.akamaized.net/out/v1/81153498b61444bfaef4ff09b55e55aa/index.m3u8?aws.manifestfilter=video_height:144-720;video_codec:H264
+#EXTINF:-1 group-title="قنوات رياضية منوعه",Fight Sports 
+https://shls-fight-sports-ak.akamaized.net/out/v1/ee7e6475b12e484bbfa5c31461ad4306/index.m3u8?aws.manifestfilter=video_height:144-1080;video_codec:H264
+#EXTINF:-1 tvg-logo="file:///private/var/mobile/Containers/Data/Application/4F50D8A6-472C-4D32-B13D-22D2B51FBA23/tmp/4CF34448-22D4-4F81-85E4-AA82099A184F.webp" group-title="اخبار",Euro News FR
+https://shls-live-ak.akamaized.net/out/v1/302a3ad418214d3f94460738a805b930/index.m3u8?aws.manifestfilter=video_height:144-720;video_codec:H264
+#EXTINF:-1 tvg-logo="file:///private/var/mobile/Containers/Data/Application/4F50D8A6-472C-4D32-B13D-22D2B51FBA23/tmp/16D66F13-4262-46BF-8A8F-F73BF621D738.webp" group-title="اخبار",Euro News EN
+https://shls-live-ak.akamaized.net/out/v1/115bfcde8fa342d182ef846445cdbdcf/index.m3u8?aws.manifestfilter=video_height:144-720;video_codec:H264
+#EXTINF:-1 group-title="اخبار",Dw Arabia 
+https://dwamdstream103.akamaized.net/hls/live/2015526/dwstream103/index.m3u8
+#EXTINF:-1 group-title="دبي + ابو ظبي",Dubai Racing 3
+https://dmithrvll.cdn.mgmlcdn.com/dubaimubasher/smil:dubaimubasher.smil/playlist.m3u8
+#EXTINF:-1 group-title="دبي + ابو ظبي",Dubai Racing 2
+https://dmithrvll.cdn.mgmlcdn.com/dubairacing/smil:dubairacing.smil/playlist.m3u8
+#EXTINF:-1 group-title="دبي + ابو ظبي",Dubai Racing 
+https://dmisvthvll.cdn.mgmlcdn.com/events/smil:events.stream.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="file:///private/var/mobile/Containers/Data/Application/4F50D8A6-472C-4D32-B13D-22D2B51FBA23/tmp/626B38EC-EB33-4F8D-9F3A-6B54FAB94D4E.webp" group-title="اطفال",Cartoon Network 
+https://shls-cartoon-net-prod-dub.shahid.net/out/v1/dc4aa87372374325a66be458f29eab0f/index.m3u8
+#EXTINF:-1 group-title="اخبار",Bbc News
+https://vs-hls-pushb-ww.live.cf.md.bbci.co.uk/x=3/i=urn:bbc:pips:service:bbc_arabic_tv/mobile_wifi_main_sd_abr_v2.m3u8
+#EXTINF:-1 group-title="قنوات اجنبيه",BBC AMERICA
+https://bcovlive-a.akamaihd.net/c9bf201b06694453bb29282f97191f58/us-east-1/6240731308001/playlist.m3u8?bcov_auth=eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJ1aWQiOiJhNTEwODI4OC03NzQ0LTRhM2UtYWIzYS0yMjUzOTIyMTRmYjkiLCJhY2NpZCI6IjYyNDA3MzEzMDgwMDEiLCJwcmlkIjoiMzExZDAwYWItNjNiNi00ZDNkLThmYWEtNTA3NDhkNDA0NmEzIiwiY29uaWQiOiI2MzA5NTI3MTA5MTEyIiwiY2xpbWl0Ijo0LCJleHAiOjE2Njk0MzgxMjIsImNiZWgiOiJCTE9DS19ORVdfVVNFUiIsImlhdCI6MTY2OTM1MTcyMiwianRpIjoiNGEzMzEzMmUtNTJlOS00NDg0LThlNDAtYzVhYjJkZGUxMWM2Iiwic2lkIjoiTW96aWxsYS81LjAgKGlQaG9uZTsgQ1BVIGlQaG9uZSBPUyAxNV80XzEgbGlrZSBNYWMgT1MgWCkgQXBwbGVXZWJLaXQvNjA1LjEuMTUgKEtIVE1MLCBsaWtlIEdlY2tvKSBWZXJzaW9uLzE0LjAgTW9iaWxlLzE1RTE0OCBTYWZhcmkvNjA0LjEgLSAxMjg1Mzg3OTQyIn0.qBtflhqXbpRbh-SygppFY09n1J6eY-08oh1Vhn_7yQgpDGtnk82ivDv4LukUMTwIkPozzrexgz1ihHYnLWJTV_T_Ha-fz2oijLzMih-F1w3qDBTXZ1IBAFXaiIzUpjrFno9dGpOUTq04zYMHEpPfsYz-zXc8cXMHvyn2DViYtqw3RCqEtA8uIXllHaJbRWo46hTo6d4dvqFxrHZ6KDyyYwCnqKI7nlLz13Q3BmqlqoRR3NZkjMrSV1fUcI5QAKZmNlZPSDgSbC7aBta3MLuPHTjMdcWkYY9t48cA2imLs4wNYGnVOUwIwhJ4O_w3G4nsj0lTQmJo3kQ5IVCGAbTFpQ
+#EXTINF:-1 group-title="قنوات اجنبيه",AMC+
+https://bcovlive-a.akamaihd.net/ba853de442c140b7b3dc020001597c0a/us-east-1/6245817279001/playlist.m3u8?bcov_auth=eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJ1aWQiOiJhNTEwODI4OC03NzQ0LTRhM2UtYWIzYS0yMjUzOTIyMTRmYjkiLCJhY2NpZCI6IjYyNDU4MTcyNzkwMDEiLCJwcmlkIjoiODJkMWI0MmEtMWQ0Mi00ZGZiLTg2MmUtNTNmZDhkNWU2NmE4IiwiY29uaWQiOiI2MzA5NTI1MTA2MTEyIiwiY2xpbWl0Ijo0LCJleHAiOjE2Njk0MzgyMDYsImNiZWgiOiJCTE9DS19ORVdfVVNFUiIsImlhdCI6MTY2OTM1MTgwNiwianRpIjoiMWZiZDlkMjgtNDU1Ni00YTdlLTlkMmQtNGE0MTA2MzYxM2E0Iiwic2lkIjoiTW96aWxsYS81LjAgKGlQaG9uZTsgQ1BVIGlQaG9uZSBPUyAxNV80XzEgbGlrZSBNYWMgT1MgWCkgQXBwbGVXZWJLaXQvNjA1LjEuMTUgKEtIVE1MLCBsaWtlIEdlY2tvKSBWZXJzaW9uLzE0LjAgTW9iaWxlLzE1RTE0OCBTYWZhcmkvNjA0LjEgLSA0ODQ2NDg0Njk1In0.u9Q0PSpw5c5En_EHD2p2Msz00DLeg7ckDgxevkAOX1vfyeAeWRjHxVi0I3TJ6zqTwpA6UeNOdP68Vfo6jTlvyWwHn9ymecxYOQrRlY2vum50EttVxVV3o_BLG4veWzYhAsCo9YZOX5hWJPRT7YnXSlc0OyniHZnIkCNxw0HaeUdBR4BSBuG0ECRm7GwLIgrA3kLnt712E8A8wdEFOxEZhF8WBEH0dL_ciN8AdRCLg2-fQoRSvDBOr9eqvzlrhFL4S6uc2SbeqXQ0RQNahqODAiviVrs0xUVcfarRGNmpwLtJ5Zm8PUXXpf_uwWt9JlJs4j1mnirmc2Ra-ylCQx8Xpg
+#EXTINF:-1 group-title="قنوات اجنبيه",AMC
+https://bcovlive-a.akamaihd.net/b3ed62003de946c896f4f541b908376e/us-east-1/6240731308001/playlist.m3u8?bcov_auth=eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJ1aWQiOiJhNTEwODI4OC03NzQ0LTRhM2UtYWIzYS0yMjUzOTIyMTRmYjkiLCJhY2NpZCI6IjYyNDA3MzEzMDgwMDEiLCJwcmlkIjoiMzExZDAwYWItNjNiNi00ZDNkLThmYWEtNTA3NDhkNDA0NmEzIiwiY29uaWQiOiI2MzA5NTI3Njk3MTEyIiwiY2xpbWl0Ijo0LCJleHAiOjE2Njk0MzgxNjgsImNiZWgiOiJCTE9DS19ORVdfVVNFUiIsImlhdCI6MTY2OTM1MTc2OCwianRpIjoiYjg5NGVjNDAtYTdkZS00MWFiLWI4NjgtOTJiYzRlYTBkNWUzIiwic2lkIjoiTW96aWxsYS81LjAgKGlQaG9uZTsgQ1BVIGlQaG9uZSBPUyAxNV80XzEgbGlrZSBNYWMgT1MgWCkgQXBwbGVXZWJLaXQvNjA1LjEuMTUgKEtIVE1MLCBsaWtlIEdlY2tvKSBWZXJzaW9uLzE0LjAgTW9iaWxlLzE1RTE0OCBTYWZhcmkvNjA0LjEgLSA5MzEwNDIwNzI4In0.gIzzKoutISKSWNqpehhNQ0CB3KgiE0TZEKwaIF73XzCxHzozCm-sUwdgHkU_w6MJeMNLZB8sEKUAG0lGm1phi5fb0NP0CojbbXuBsPXmepvDT2W9n8O9O9FyzPtuOxbpWSBiA7mpeelmsT36Ni3mmIu35zr3LJsAi8HosoTJX-V1v_cpzEnHwK0HU5fZr1GoomAaEwi7gNRDx6Cm0f_EqVm3wEVwT9sYO59lPzuteRYBND6hmrwWSuTqwnWy5QoYX8ZaJNuQRNucoLCchKelzYTKFr5HZMuXHiV1H9RNZmcp4v5dW_okbn4C3iv9fSpWuskN2LRhQPhu4nlYfxJdYA
+#EXTINF:-1,Aloula
+https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/al_aoula_inter/hls_snrt/al_aoula_inter.m3u8
+#EXTINF:-1 tvg-logo="file:///private/var/mobile/Containers/Data/Application/4F50D8A6-472C-4D32-B13D-22D2B51FBA23/tmp/514FFD8C-9D3E-44CE-84CF-B42DBCA2C8B8.webp" group-title="اطفال", بالعربيgulli
+https://gulli-bil-arabi-prod-dub-ak.akamaized.net/out/v1/5454d215afba410c90b233f400730958/index.m3u8?aws.manifestfilter=video_height:144-1080;video_codec:H264
