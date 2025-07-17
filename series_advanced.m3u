@@ -1,0 +1,21 @@
+#EXTM3U
+
+# الهيبة - الموسم 1
+#EXTINF:-1 tvg-id="heba_s01e01" tvg-name="الهيبة - S01E01 - العودة" group-title="الهيبة - الموسم 1" tvg-logo="https://i.imgur.com/heba.jpg", الهيبة - S01E01 - العودة
+https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8
+
+#EXTINF:-1 tvg-id="heba_s01e02" tvg-name="الهيبة - S01E02 - النزاع" group-title="الهيبة - الموسم 1" tvg-logo="https://i.imgur.com/heba.jpg", الهيبة - S01E02 - النزاع
+https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8
+
+#EXTINF:-1 tvg-id="heba_s01e03" tvg-name="الهيبة - S01E03 - المواجهة" group-title="الهيبة - الموسم 1" tvg-logo="https://i.imgur.com/heba.jpg", الهيبة - S01E03 - المواجهة
+https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8
+
+# الهيبة - الموسم 2
+#EXTINF:-1 tvg-id="heba_s02e01" tvg-name="الهيبة - S02E01 - البداية الجديدة" group-title="الهيبة - الموسم 2" tvg-logo="https://i.imgur.com/heba2.jpg", الهيبة - S02E01 - البداية الجديدة
+https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8
+
+#EXTINF:-1 tvg-id="heba_s02e02" tvg-name="الهيبة - S02E02 - الظلال" group-title="الهيبة - الموسم 2" tvg-logo="https://i.imgur.com/heba2.jpg", الهيبة - S02E02 - الظلال
+https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8
+
+#EXTINF:-1 tvg-id="heba_s02e03" tvg-name="الهيبة - S02E03 - الكمين" group-title="الهيبة - الموسم 2" tvg-logo="https://i.imgur.com/heba2.jpg", الهيبة - S02E03 - الكمين
+https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8
