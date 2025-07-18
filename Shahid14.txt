@@ -1,0 +1,56 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQzJZTNA0TnJaU0uatxY96KnbFcYVTmcqKkPw&s" group-title="قنوات اخبار",الجزيرة
+https://live-hls-web-aja-fa.thehlive.com/AJA/index.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0U78ZlIAocGNN1XYcvHv0lUhn3tg7v9yoUA&s" group-title="قنوات اخبار",الجزيرة مباشر
+https://live-hls-web-ajm.getaj.net/AJM/index.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSxfHP7EJiqIvv-IgDZbH5LWP8vqxP_lRZJlw&s" group-title="قنوات اخبار",الجزيرة الوثائقية
+https://live-hls-web-ajd.getaj.net/AJD/index.m3u8
+#EXTINF:-1 tvg-logo="https://shahid.mbc.net/mediaObject/d3c4d7f4-64f6-4dbe-a6b5-8bfed1372966?height=auto&width=288&croppingPoint=&version=1&type=webp" group-title="قنوات اطفال",سبيستون
+https://shd-gcp-live.akamaized.net/live/bitmovin-spacetoon/d8382fb9ab4b2307058f12c7ea90db54/index.m3u8?aws.manifestfilter=video_height:144-720;video_codec:H264&video_height=144-720&video_codec=H264
+#EXTINF:-1 tvg-logo="https://shahid.mbc.net/mediaObject/6bcdb5e5-d974-4feb-97dc-1bad851b0c1d?height=auto&width=288&croppingPoint=&version=1&type=webp" group-title="قنوات اطفال",ام بي سي 3
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-3/db059e876fc5836104c04017e0410745/index.m3u8?aws.manifestfilter=video_height:144-720;video_codec:H264&video_height=144-720&video_codec=H264
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b1/Atfal1.jpg" group-title="قنوات اطفال",اطفال ومواهب
+https://5d658d7e9f562.streamlock.net/atfal1.com/atfal2/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ea/Ad_sport_1.png" group-title="قنوات رياضية",ابو ظبي الرياضية
+https://vo-live-media.cdb.cdn.orange.com/Content/Channel/AbuDhabiSportsChannel1/HLS/variant.m3u8?expires=1752888807&md5=ANt2QPMpMWTlcb5sbQO_hQ
+#EXTINF:-1 tvg-logo="https://e7.pngegg.com/pngimages/520/846/png-clipart-abu-dhabi-sports-logo-abu-dhabi-tv-television-channel-marathon-event-television-text.png" group-title="قنوات رياضية",ابو ظبي الرياضية 2
+https://vo-live-media.cdb.cdn.orange.com/Content/Channel/AbuDhabiSportsChannel2/HLS/variant.m3u8?expires=1752889204&md5=jVy1SMnqEQvJ8TJqRUQ63A
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQsI0-dK70vLcSw0g9e8G2hQU-VEPwVfgeJpw&s" group-title="قنوات رياضية",دبي الرياضية
+https://dmidspta.cdn.mgmlcdn.com/dubaisports/smil:dubaisports.stream.smil/playlist.m3u8?stime=20250711154635&etime=20250718221315&token=05f758f5d054898a6e3fd
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQsI0-dK70vLcSw0g9e8G2hQU-VEPwVfgeJpw&s" group-title="قنوات رياضية",دبي الرياضية 2
+https://dmitwlvvll.cdn.mgmlcdn.com/dubaisportshd/smil:dubaisportshd.smil/playlist.m3u8?stime=20250711154802&etime=20250718221442&token=08d095441d4878d52c80f
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQsI0-dK70vLcSw0g9e8G2hQU-VEPwVfgeJpw&s" group-title="قنوات رياضية",دبي الرياضية 3
+https://dmitwlvvll.cdn.mgmlcdn.com/dubaisportshd5/smil:dubaisportshd5.smil/playlist.m3u8?stime=20250711154906&etime=20250718221546&token=08fec1976ef4081410b88
+#EXTINF:-1 tvg-logo="https://vid.alarabiya.net/images/2023/04/11/015334a6-b342-473c-a006-6d34eacaf493/015334a6-b342-473c-a006-6d34eacaf493.jpg" group-title="قنوات اخبار" العربية
+https://live.alarabiya.net/alarabiapublish/alarabiya.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://vid.alarabiya.net/images/2023/11/22/0eb471d0-e247-46ed-88f3-afa8924a9503/0eb471d0-e247-46ed-88f3-afa8924a9503.jpg" group-title="قنوات اخبار",العربية الحدث
+https://live.alarabiya.net/alarabiapublish/alhadath.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://vid.alarabiya.net/images/2023/04/11/7d86e752-0b17-433b-aac4-8f773b95f755/7d86e752-0b17-433b-aac4-8f773b95f755.jpg" group-title="قنوات اخبار",العربية اف ام
+https://fm.alarabiya.net/fm/myStream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://vid.alarabiya.net/images/2023/10/26/b507670c-9a9b-4450-b612-6f0d686bd5c4/b507670c-9a9b-4450-b612-6f0d686bd5c4.jpg" group-title="قنوات اخبار",العربية اعمال
+https://live.alarabiya.net/alarabiapublish/aswaaq.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://vid.alarabiya.net/images/2024/10/03/d8c5a2ff-8a09-45d0-94d2-2ce2e42ae23c/d8c5a2ff-8a09-45d0-94d2-2ce2e42ae23c.jpg" group-title="قنوات اخبار",العربية برامج
+https://d1j4r34gq3qw9y.cloudfront.net/out/v1/96804f3a14864641a21c25e8ca9afb74/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.alaraby.com/themes/custom/arabytv/images/livecoverage-background.svg" group-title="قنوات اخبار",العربي
+https://live.kwikmotion.com/alaraby1live/alaraby_abr/playlist.m3u8?orig=arabic&out=english,french,persian&default=&autoselect=no&line=70&position=50&align=center
+#EXTINF:-1 tvg-logo="https://ar.russiatoday.com/static/projects/assets/img/logo-main.svg" group-title="قنوات اخبار",روسيا اليوم
+https://rt-arb.rttv.com/dvr/rtarab/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfkPLSoAph17I8F8M7fVAMPDNgXNW8VSPMEg&s" group-title="قنوات اخبار",تلفزيون سوريا
+https://svs.itworkscdn.net/syriatvlive/syriatv.smil/playlist_dvr.m3u8
+
+#EXTINF:-1 tvg-logo="https://admango.cdn.mangomolo.com/analytics/uploads/71/at_682ecb61d4.jpg" group-title="افلام كرتون",PADDINGTON 2
+https://dmifrta.cdn.mangomolo.com/vod/_definst_/smil:2025-05-27/vidB04Uf6iOx9_corrected.smil/playlist.m3u8?stime=20250711161256&etime=20250718223936&token=071f302870827d58c4a5a
+#EXTINF:-1 tvg-logo="https://admango.cdn.mangomolo.com/analytics/uploads/71/at_67f4d9dd2a.jpg" group-title="أفلام اجنبيه",Bad moms christmas
+https://dmifrta.cdn.mangomolo.com/vod/_definst_/smil:2025-05-27/vidH7MGUosIkt_corrected.smil/playlist.m3u8?stime=20250711161422&etime=20250718224102&token=007a24f79896c3db2bc67
+#EXTINF:-1 tvg-logo="https://admango.cdn.mangomolo.com/analytics/uploads/71/at_67625daa73.jpg" group-title="أفلام اجنبيه",Bad moms
+https://dmifrta.cdn.mangomolo.com/vod/_definst_/smil:2025-01-15/vidZzicrLGmI8_corrected.smil/playlist.m3u8?stime=20250711161759&etime=20250718224439&token=08c4b0f6b836e58cf7872
+#EXTINF:-1 tvg-logo="https://admango.cdn.mangomolo.com/analytics/uploads/71/at_67f6378a10.jpg" group-title="أفلام اجنبيه",The Space Between us
+https://dmifrta.cdn.mangomolo.com/vod/_definst_/smil:2025-04-09/vidsMxuKWz2pU_corrected.smil/playlist.m3u8?stime=20250711162022&etime=20250718224702&token=049b041472725babf47f8
+#EXTINF:-1 tvg-logo="https://admango.cdn.mangomolo.com/analytics/uploads/71/at_6772760b62.jpg" group-title="افلام كرتون",Paddington
+https://dmifrta.cdn.mangomolo.com/vod/_definst_/smil:2025-01-07/vidkyPRmIKOD4_corrected.smil/playlist.m3u8?stime=20250711162402&etime=20250718225042&token=0be77d202a78ee57368a8
+#EXTINF:-1 tvg-logo="https://dragontvstore.com/icon/Esh-Esh.png" group-title="RAMADAN 2025 | EG SD", طاش ما طاش S01 E01
+http://dragontv.pro:8080/series/J5oVCs0Ulm/ux0MzKnh9S/551381.mkv
+#EXTINF:-1 tvg-logo="https://dragontvstore.com/icon/Esh-Esh.png" group-title="RAMADAN 2025 | EG SD", طاش ما طاشS01 E02
+http://dragontv.pro:8080/series/J5oVCs0Ulm/ux0MzKnh9S/551477.mkv
+#EXTINF:-1 tvg-logo="https://dragontvstore.com/icon/Esh-Esh.png" group-title="RAMADAN 2025 | EG SD", طاش ما طاشS01 E03
+http://dragontv.pro:8080/series/J5oVCs0Ulm/ux0MzKnh9S/551706.mkv
