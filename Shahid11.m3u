@@ -49,9 +49,23 @@ https://dmifrta.cdn.mangomolo.com/vod/_definst_/smil:2025-04-09/vidsMxuKWz2pU_co
 #EXTINF:-1 tvg-logo="https://admango.cdn.mangomolo.com/analytics/uploads/71/at_6772760b62.jpg" group-title="افلام كرتون",Paddington
 https://dmifrta.cdn.mangomolo.com/vod/_definst_/smil:2025-01-07/vidkyPRmIKOD4_corrected.smil/playlist.m3u8?stime=20250711162402&etime=20250718225042&token=0be77d202a78ee57368a8
 
-#EXTINF:-1 tvg-logo="https://cdn.eremnews.io/media/a851e5de-edb6-4d95-a809-4163e9bdd2b0" group-title="مسلسلات سعودية",طاش ما طاش S01 E01
-https://mbcvod-enc.edgenextcdn.net/out/v1/877ee1f9a8ed45ba999db838fa5b9643/2481eb9dfde14284b2b8852302df4759/2243bbdf6b024b1ca9a192817021c761/manifest.m3u8?aws.manifestfilter=video_height:144-720;video_codec:H264&video_height=144-720&video_codec=H264
-#EXTINF:-1 tvg-logo="https://cdn.eremnews.io/media/a851e5de-edb6-4d95-a809-4163e9bdd2b0" group-title="مسلسلات سعودية",طاش ما طاش S01 E02
-https://mbcvod-enc.edgenextcdn.net/out/v1/70d283fe5f004e839b56be5a3364d481/a5eda9aa9a5b45aa9bbf00dc133ca83e/c172ad86e318465bb66d213901cf5e48/manifest.m3u8?aws.manifestfilter=video_height:144-720;video_codec:H264&video_height=144-720&video_codec=H264
-#EXTINF:-1 tvg-logo="https://cdn.eremnews.io/media/a851e5de-edb6-4d95-a809-4163e9bdd2b0" group-title="مسلسلات سعودية",طاش ما طاش S01 E03
-https://mbc-aws-ksa.mncdn.com/out/v1/b7edeedcc98a404c84a61db26f6502fe/fdd93f1ad5a1453ea0d7466759abf314/4ce8f24b15ac465cb580c373ad8c148a/manifest.m3u8?aws.manifestfilter=video_height:144-720;video_codec:H264&video_height=144-720&video_codec=H264
+#EXTINF:-1 tvg-logo="https://dragontvstore.com/icon/Esh-Esh.png" group-title="RAMADAN 2025 | EG SD",SD اش اش S01 E01
+http://dragontv.pro:8080/series/J5oVCs0Ulm/ux0MzKnh9S/551193.mkv
+#EXTINF:-1 tvg-logo="https://dragontvstore.com/icon/Esh-Esh.png" group-title="RAMADAN 2025 | EG SD",SD اش اش S01 E02
+http://dragontv.pro:8080/series/J5oVCs0Ulm/ux0MzKnh9S/551194.mkv
+#EXTINF:-1 tvg-logo="https://dragontvstore.com/icon/Esh-Esh.png" group-title="RAMADAN 2025 | EG SD",SD اش اش S01 E03
+http://dragontv.pro:8080/series/J5oVCs0Ulm/ux0MzKnh9S/551195.mkv
+#EXTINF:-1 tvg-logo="https://dragontvstore.com/icon/Esh-Esh.png" group-title="RAMADAN 2025 | EG SD",SD اش اش S01 E04
+http://dragontv.pro:8080/series/J5oVCs0Ulm/ux0MzKnh9S/551381.mkv
+#EXTINF:-1 tvg-logo="https://dragontvstore.com/icon/Esh-Esh.png" group-title="RAMADAN 2025 | EG SD",SD اش اش S01 E05
+http://dragontv.pro:8080/series/J5oVCs0Ulm/ux0MzKnh9S/551477.mkv
+#EXTINF:-1 tvg-logo="https://dragontvstore.com/icon/Esh-Esh.png" group-title="RAMADAN 2025 | EG SD",SD اش اش S01 E06
+http://dragontv.pro:8080/series/J5oVCs0Ulm/ux0MzKnh9S/551706.mkv
+#EXTINF:-1 tvg-logo="https://dragontvstore.com/icon/Esh-Esh.png" group-title="RAMADAN 2025 | EG SD",SD اش اش S01 E07
+http://dragontv.pro:8080/series/J5oVCs0Ulm/ux0MzKnh9S/551879.mkv
+#EXTINF:-1 tvg-logo="https://dragontvstore.com/icon/Esh-Esh.png" group-title="RAMADAN 2025 | EG SD",SD اش اش S01 E08
+http://dragontv.pro:8080/series/J5oVCs0Ulm/ux0MzKnh9S/552165.mkv
+#EXTINF:-1 tvg-logo="https://dragontvstore.com/icon/Esh-Esh.png" group-title="RAMADAN 2025 | EG SD",SD اش اش S01 E09
+http://dragontv.pro:8080/series/J5oVCs0Ulm/ux0MzKnh9S/552387.mkv
+#EXTINF:-1 tvg-logo="https://dragontvstore.com/icon/Esh-Esh.png" group-title="RAMADAN 2025 | EG SD",SD اش اش S01 E10
+http://dragontv.pro:8080/series/J5oVCs0Ulm/ux0MzKnh9S/552519.mkv
